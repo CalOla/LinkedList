@@ -1,0 +1,5 @@
+A simple linked list application that allows a user to perform actions such as:
+Inserting elements to the linked list
+deleting element from the linked list
+displaying the elements in the linked list
+...
